@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 100
+AlignConsecutiveAssignments: true
+AlignTrailingComments: true
+BreakBeforeBraces: Allman
+SpacesBeforeTrailingComments: 1
+SpaceBeforeParens: ControlStatements
+IndentCaseLabels: true
+AllowShortFunctionsOnASingleLine: InlineOnly
