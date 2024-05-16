@@ -1,1 +1,0 @@
-I finished adding and setting up both launch and task files; these are for building, testing, and running scripts for the specified project.
